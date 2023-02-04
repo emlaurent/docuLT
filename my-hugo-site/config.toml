@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Manu Hugo Site"
+theme = "hyde"
+[params]
+
+description = "Kinsta is a premium managed WordPress hosting company."
